@@ -1,0 +1,12 @@
+contains your name, project name, a short paragraph describing the project
+
+Lab 4 calculator using symbol table:
+
+    This calculator reads and evaluates user input to solve simple math equations. Utilizing a
+    symbol table, variables are able to be declared, defined and changed by the user. Variables
+    are defined as starting with a letter followed by a letter or number or underscore 0 or more
+    times. There is a defined max number of variables thats can be adjusted along with a verbose
+    degugging mode. 
+
+Benjamin Widner
+September 2023  
